@@ -150,6 +150,6 @@ variables:
   OPENAI_API_KEY: "**********************************"
   LANGCHAIN_TRACING_V2: true
   LANGCHAIN_ENDPOINT: "https://api.smith.langchain.com"
-  LANGCHAIN_API_KEY: "ls__7ff4bc1676204479a7554103003770e9"
+  LANGCHAIN_API_KEY: "*******************************"
   LANGCHAIN_PROJECT: "COP"
 prefix: C:\Users\camma\anaconda3\envs\COP
